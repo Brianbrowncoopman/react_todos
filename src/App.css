@@ -1,0 +1,22 @@
+.App {
+  
+  justify-content: center;
+  align-items: center;
+  margin: 100px;
+  display: flex;
+}
+
+
+
+
+
+
+
+.container {
+  width: 100vw;
+  height: 500px;
+  padding: 15%;
+  border: 5px solid grey;
+  background-color: rgb(160, 94, 160);
+
+}
